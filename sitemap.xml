@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+    <!-- URL Principal Honda Motos Pereira / Honda Super Motos Pereira -->
+    <url>
+        <loc>https://hondasupermotospereira.com/</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://hondasupermotospereira.com/images/honda%20logo.jpg</image:loc>
+            <image:title>Honda Motos Pereira - Logo Oficial Honda Super Motos Pereira</image:title>
+            <image:caption>Concesionario Oficial de Motocicletas Honda en Pereira, Dosquebradas y Risaralda</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://hondasupermotospereira.com/images/banner_xr150l.jpg</image:loc>
+            <image:title>Nueva Honda XR 150L 2.0 ABS en Honda Motos Pereira</image:title>
+            <image:caption>Lanzamiento exclusivo Honda XR 150L 2.0 en Pereira y Risaralda</image:caption>
+        </image:image>
+        <video:video>
+            <video:thumbnail_loc>https://hondasupermotospereira.com/images/HONDA%20AFRICA%20TWIN%20ADVENTURE%20SPORT%20SE.png</video:thumbnail_loc>
+            <video:title>Video de Presentación Honda Super Motos Pereira</video:title>
+            <video:description>Conoce el concesionario oficial #1 de motocicletas Honda en Pereira, Dosquebradas y el Eje Cafetero.</video:description>
+            <video:content_loc>https://hondasupermotospereira.com/images/hero_video.mp4</video:content_loc>
+        </video:video>
+    </url>
+
+    <!-- Categorías Oficiales de Motocicletas Honda en Pereira -->
+    <url>
+        <loc>https://hondasupermotospereira.com/#sport</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://hondasupermotospereira.com/images/HONDA%20CB%20300F.png</image:loc>
+            <image:title>Honda CB 300F Pereira - Motos Sport Honda</image:title>
+            <image:caption>Comprar Honda CB 300F en Pereira y Risaralda</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hondasupermotospereira.com/#scooter</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://hondasupermotospereira.com/images/HONDS%20PCX%20160%20ABS.png</image:loc>
+            <image:title>Honda PCX 160 ABS Pereira - Scooters Honda</image:title>
+            <image:caption>Scooters automáticas Honda en Pereira y Dosquebradas</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hondasupermotospereira.com/#navi</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://hondasupermotospereira.com/images/HONDA%20NAVI.png</image:loc>
+            <image:title>Honda Navi Pereira - Motos Automáticas Crossover</image:title>
+            <image:caption>Honda Navi Mix y Adventure en Honda Motos Pereira</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hondasupermotospereira.com/#todoterreno</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://hondasupermotospereira.com/images/HONDA%20X3%20300L%20TORNADO.png</image:loc>
+            <image:title>Honda Tornado X3 300L Pereira - Motos Doble Propósito</image:title>
+            <image:caption>Motos Todoterreno Honda XR y Tornado en Pereira</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hondasupermotospereira.com/#aventura</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://hondasupermotospereira.com/images/HONDA%20AFRICA%20TWIN%20CRF%201100L.png</image:loc>
+            <image:title>Honda Africa Twin CRF 1100L Pereira - Motos Aventura Touring</image:title>
+            <image:caption>Motos de Alta Cilindrada Honda Aventura en Pereira</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hondasupermotospereira.com/#cuatrimotos</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hondasupermotospereira.com/#custom</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hondasupermotospereira.com/#enduro-y-motocross</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Secciones Informativas y SEO Local -->
+    <url>
+        <loc>https://hondasupermotospereira.com/#video-presentacion</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hondasupermotospereira.com/#blog</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hondasupermotospereira.com/#concesionarios</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+    <url>
+        <loc>https://hondasupermotospereira.com/#financiamiento</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+    <url>
+        <loc>https://hondasupermotospereira.com/#contacto</loc>
+        <lastmod>2026-09-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>

@@ -1,0 +1,17 @@
+# robots.txt para Honda Motos Pereira / Honda Super Motos Pereira
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /styles.css
+Allow: /app.js
+Allow: /data.js
+
+# Googlebot / Bingbot directives
+User-agent: Googlebot
+Allow: /
+Allow: /images/
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+Sitemap: https://hondasupermotospereira.com/sitemap.xml
