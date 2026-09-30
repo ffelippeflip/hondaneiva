@@ -14,4 +14,4 @@ Allow: /images/
 User-agent: Googlebot-Image
 Allow: /images/
 
-Sitemap: https://hondasupermotospereira.com/sitemap.xml
+Sitemap: https://hondasupermotosedepereira.com/sitemap.xml
